@@ -1,18 +1,16 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: Ryan Arnaudin
+email: arnaudin@ryanarnaudin.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Ryan Arnaudin is a designer & engineer in San Francisco, CA
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://ryanarnaudin.com/" # the base hostname & protocol for your site
+twitter_username: arnaudin
+github_username:  arnaudin
 
 # Layout settings
 header_type: default  # values [ drawer, default ]
-post_type: highlight    # values [ highlight, default ]
+post_type: default    # values [ highlight, default ]
 pagination_type: default  # values [ ops, default ]
 
 more_vert:
