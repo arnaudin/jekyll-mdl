@@ -1,4 +1,4 @@
-# jekyll-mdl
+# My personal site based on jekyll-mdl
 > A Jekyll theme based in Google Material Design Lite library.
 
 ## Demo
@@ -58,7 +58,7 @@ If you want to contribute to this project, please read the [CONTRIBUTING](https:
     git push -u origin feature_branch
     # Send a pull request for your feature branch
 
-## Team
+## jekyll-mdl Team
 [![Oscar Cortez](https://avatars.githubusercontent.com/u/2553459?v=3&s=100)](http://github.com/oscarmcm) | [![Byron Corrales](https://avatars.githubusercontent.com/u/99616?v=3&s=100)](https://github.com/byroncorrales)
 ---|---
 [Oscar Cortez](http://github.com/oscarmcm) | [Byron Corrales](https://github.com/byroncorrales)
@@ -70,7 +70,4 @@ Licensed under the Apache 2.0 license.
 See the [LICENSE](https://github.com/gdg-managua/jekyll-mdl/blob/master/LICENSE.md) file for more details.
 
 Copyright © 2015 [Google Developers Group Managua](http://www.gdgmanagua.org).
-
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/gdg-managua/jekyll-mdl/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
