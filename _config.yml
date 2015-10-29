@@ -7,6 +7,10 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://ryanarnaudin.com/" # the base hostname & protocol for your site
 twitter_username: arnaudin
 github_username:  arnaudin
+gplus_username: RyanArnaudin
+instagram_username: arnaudin
+linkedin_username: arnaudin
+codepen_username: arnaudin
 
 # Layout settings
 header_type: default  # values [ drawer, default ]
