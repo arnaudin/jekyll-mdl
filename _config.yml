@@ -5,6 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Ryan Arnaudin is a designer & engineer in San Francisco, CA
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://ryanarnaudin.com/" # the base hostname & protocol for your site
+name: Ryan Arnaudin's Blog
 twitter_username: arnaudin
 github_username:  arnaudin
 gplus_username: RyanArnaudin
