@@ -3,20 +3,18 @@ layout: page
 title: Blog
 permalink: /blog/
 ---
-But it's not who you are underneath... it's what you do that defines you. Death does not wait for you to be ready! Death is not considerate of fair! And make no mistake, here you face death. Tiger. Jujitsu. Panther. You're skilled. But this is not a dance. And you are afraid.
+All of my blog posts are listed here. You can follow along via [RSS](../blogfeed.xml "Blog feed"), or on Medium.
+
+Wide text hack. Wide text hack. Wide text hack. Wide text hack. Wide text hack. Wide text hack. Wide text hack. Wide text hack. Wide text hack. Wide text hack. Wide text hack. Wide text hack. Wide text hack. Wide text hack. Wide text hack. Wide text hack. 
 
 <div class="page-content">
-  <div class="mdl-grid">
-  
-<ul>
-  {% for post in site.posts %}
-  {% if post.layout == "post"  %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-	{% endif %}
-  {% endfor %}
-</ul>
-
+<div class="mdl-grid">
+	<ul>
+	  {% for post in site.categories.blog %}
+		<li>
+		  <a href="{{ post.url }}">{{ post.title }}</a>
+		</li>
+	  {% endfor %}
+	</ul>
 </div>
 </div>
