@@ -1,0 +1,13 @@
+---
+layout: project
+title:  "CNC"
+categories: sideproject
+image: http://i1.wp.com/wptavern.com/wp-content/uploads/2014/12/jekyll.png
+---
+Need to figure out content
+
+Card 1 - Handplane(s)
+
+Card 2 - Chocolate mold(s)
+
+Card 3 - Think of stuff to make in December
